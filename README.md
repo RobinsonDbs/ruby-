@@ -1,0 +1,1 @@
+exercice du jeudi sur ruby
